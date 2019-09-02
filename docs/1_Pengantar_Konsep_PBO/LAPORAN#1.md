@@ -32,7 +32,7 @@ Link kode program : [Sepeda1841720123Zaafril.java](../../src/1_Pengantar_Konsep_
 - Class main, SepedaDemo1841720123Zaafril.java
 ![contoh screenshot](img/SepedaDemo1.PNG)
 
-Link kode program : [SepedaDemo1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
+Link kode program : [SepedaDemo1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
 
 ### Percobaan 2
 
@@ -45,12 +45,12 @@ nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung.
 - Class SepedaGunung1841720123Zaafril.java
 ![contoh screenshot](img/SepedaGunung2.PNG)
 
-Link kode program : [SepedaGunung1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/SepedaGung1841720123Zaafril.java)
+Link kode program : [SepedaGunung1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/SepedaGung1841720123Zaafril.java)
 
 - Class main, SepedaDemo1841720123Zaafril.java
 ![contoh screenshot](img/SepedaDemo2.PNG)
 
-Link kode program : [SepedaDemo1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
+Link kode program : [SepedaDemo1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
 
 
 ## Pertanyaan
@@ -81,12 +81,12 @@ pemrograman struktural!
 -   Class Sepeda1841720123Zaafril.java
     ![contoh screenshot](img/Sepeda3.PNG)
 
-    Link kode program : [Sepeda1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/Sepeda1841720123Zaafril.java)
+    Link kode program : [Sepeda1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720123Zaafril.java)
 
 -   Class main, SepedaDemo1841720123Zaafril.java
     ![contoh screenshot](img/SepedaDemo3.PNG)
 
-    Link kode program : [SepedaDemo1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
+    Link kode program : [SepedaDemo1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720123Zaafril.java)
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari nol?
 -   Karena class SepedaGunung merupakan turunan dari kelas Sepeda, maka pada saat membuat class SepedaGunung 
     tidak perlu membuat classnya dari awal karena sebagian atribut dan method sudah ada di class Sepeda
@@ -96,17 +96,17 @@ pemrograman struktural!
 - Class Keyboard1841720123Zaafril.java
 ![contoh screenshot](img/Keyboard3.PNG)
 
-Link kode program : [Keyboard1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/Keyboard1841720123Zaafril.java)
+Link kode program : [Keyboard1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/Keyboard1841720123Zaafril.java)
 
 - Class KeyboardGaming1841720123Zaafril.java
 ![contoh screenshot](img/KeyboardGaming3.PNG)
 
-Link kode program : [KeyboardGaming1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/KeyboardGaming1841720123Zaafril.java)
+Link kode program : [KeyboardGaming1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/KeyboardGaming1841720123Zaafril.java)
 
 - Class KeyboardDemo1841720123Zaafril.java
 ![contoh screenshot](img/KeyboardDemo3.PNG)
 
-Link kode program : [KeyboardDemo1841720123Zaafril.java](muhzaafrils/Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/KeyboardDemo1841720123Zaafril.java)
+Link kode program : [KeyboardDemo1841720123Zaafril.java](../../src/1_Pengantar_Konsep_PBO/KeyboardDemo1841720123Zaafril.java)
 
 
 ## Kesimpulan
