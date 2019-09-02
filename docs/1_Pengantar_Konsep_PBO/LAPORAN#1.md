@@ -27,7 +27,7 @@ kemudian mengakses method didalam class tersebut.
 - Class Sepeda1841720123Zaafril.java
 ![contoh screenshot](img/Sepeda1.PNG)
 
-Link kode program : [Sepeda1841720123Zaafril.java](Laporan-Praktikum-PBO-2019/src/1_Pengantar_Konsep_PBO/Sepeda1841720123Zaafril.java)
+Link kode program : [Sepeda1841720123Zaafril.java](src/1_Pengantar_Konsep_PBO/Sepeda1841720123Zaafril.java)
 
 - Class main, SepedaDemo1841720123Zaafril.java
 ![contoh screenshot](img/SepedaDemo1.PNG)
