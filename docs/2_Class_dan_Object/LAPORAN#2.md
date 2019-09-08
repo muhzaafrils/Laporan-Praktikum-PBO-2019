@@ -113,6 +113,7 @@ Link kode program : [TestBarang1841720123Zaafril.java](../../src/2_Class_dan_Obj
 
 ## Tugas
 1. Gambar class diagram dari class Toko1841720123Zaafril
+
 ![contoh screenshot](img/cdToko.PNG)
 
 2. Class Toko1841720123Zaafril.java
