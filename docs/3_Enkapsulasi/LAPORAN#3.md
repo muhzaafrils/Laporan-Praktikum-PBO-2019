@@ -125,7 +125,7 @@ Link kode program : [KoperasiDemo1841720123Zaafril.java](../../src/3_Enkapsulasi
 9.	Apa perbedaan class method dan instansiasi method?
 -   Method merupakan suatu operasi berupa fungsi-fungsi yang dapat dikerjakan oleh suatu object.
 
-## Pertanyaan
+## Tugas
 
 1. Cobalah program dibawah ini dan tuliskan hasil outputnya
 
