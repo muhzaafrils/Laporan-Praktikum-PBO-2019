@@ -1,4 +1,4 @@
-# Laporan Praktikum #13 - Enkapsulasi
+# Laporan Praktikum #3 - Enkapsulasi
 
 ## Kompetensi
 
