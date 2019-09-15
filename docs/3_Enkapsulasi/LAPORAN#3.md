@@ -103,7 +103,7 @@ Link kode program : [KoperasiDemo1841720123Zaafril.java](../../src/3_Enkapsulasi
 -   Merupakan method yang digunakan untuk mendapatkan nilai dari atribut simpanan yang nantinya method tersebut digunakan untuk menampilkan nilai dari atribut simpanan
 
 3.	Method apa yang digunakan untk menambah saldo? 
--   Method setorZaafril pada class Anggota1841720123Zaafril.java
+-   Method setorZaafril() pada class Anggota1841720123Zaafril.java
 
 4.	Apa yang dimaksud konstruktor?
 -   Konstruktor mirip dengan method cara deklarasinya akan tetapi tidak memiliki tipe return. Dan konsturktor dieksekusi ketika instan dari objek dibuat. Jadi setiap kali sebuat objek dibuat dengan keyword new() maka konstruktor akan dieksekusi. Atau kalau dari pandangan saya konstruktor merupakan cara untuk menambah parameter pada objek.
