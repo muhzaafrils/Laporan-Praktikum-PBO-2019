@@ -14,9 +14,9 @@ public class Pelanggan1841720123Zaafril {
     private int nomorKursi;
 
     public Pelanggan1841720123Zaafril(String nama, String namaFilm, int nomorKursi) {
-    this.nama = nama;
-    this.namaFilm = namaFilm;
-    this.nomorKursi = nomorKursi;
+        this.nama = nama;
+        this.namaFilm = namaFilm;
+        this.nomorKursi = nomorKursi;
     }
     
     
