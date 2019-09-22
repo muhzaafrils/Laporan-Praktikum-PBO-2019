@@ -242,7 +242,7 @@ Link kode program : [Pegawai1841720123Zaafril.java](../../src/4_Relasi_Class/Peg
 
 Link kode program : [Pelanggan1841720123Zaafril.java](../../src/4_Relasi_Class/PelangganB1841720123Zaafril.java)
 
-- Class Main, MainPercobaan5.java
+- Class Main, MainPercobaan5_1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPercobaan5.PNG)
 
