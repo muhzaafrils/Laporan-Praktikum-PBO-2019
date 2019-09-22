@@ -214,7 +214,7 @@ Link kode program : [MainPercobaan4_1841720123Zaafril.java](../../src/4_Relasi_C
 
 5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain ! 
 
-- Class Main, MainPercobaan4.java
+- Class Main, MainPercobaan4_1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPercobaan42.PNG)
 
