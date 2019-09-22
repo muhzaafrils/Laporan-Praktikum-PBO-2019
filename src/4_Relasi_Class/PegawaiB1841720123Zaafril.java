@@ -10,7 +10,7 @@ package minggu4;
  * @author WINDOWS 10
  */
 public class Pegawai1841720123Zaafril {
-     private String nip;
+    private String nip;
     private String nama;
     
     Pegawai1841720123Zaafril(String nip, String nama){
