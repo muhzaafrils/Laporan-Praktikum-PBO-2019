@@ -40,7 +40,7 @@ Link kode program : [Laptop1841720123Zaafril.java](../../src/4_Relasi_Class/Lapt
 
 Link kode program : [Processor1841720123Zaafril.java](../../src/4_Relasi_Class/Processor1841720123Zaafril.java)
 
-- Class Main, MainPercobaan1 
+- Class Main, MainPercobaan1_1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPercobaan1.PNG)
 
@@ -92,7 +92,7 @@ Link kode program : [Pelanggan1841720123Zaafril.java](../../src/4_Relasi_Class/P
 
 Link kode program : [Mobil1841720123Zaafril.java](../../src/4_Relasi_Class/Mobil1841720123Zaafril.java)
 
-- Class Main, MainPercobaan2 
+- Class Main, MainPercobaan2_1841720123Zaafril.java 
 
 ![contoh screenshot](img/MainPercobaan2.PNG)
 
@@ -135,7 +135,7 @@ Link kode program : [KeretaApi1841720123Zaafril.java](../../src/4_Relasi_Class/K
 
 Link kode program : [Pegawai1841720123Zaafril.java](../../src/4_Relasi_Class/Pegawai1841720123Zaafril.java)
 
-- Class Main, MainPercobaan3.java
+- Class Main, MainPercobaan3_1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPercobaan3.PNG)
 
@@ -189,7 +189,7 @@ Link kode program : [Kursi1841720123Zaafril.java](../../src/4_Relasi_Class/Kursi
 
 Link kode program : [Gerbong1841720123Zaafril.java](../../src/4_Relasi_Class/Gerbong1841720123Zaafril.java)
 
-- Class Main, MainPercobaan4.java
+- Class Main, MainPercobaan4_1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPercobaan4.PNG)
 
