@@ -102,7 +102,7 @@ Link kode program : [MainPercobaan2_1841720123Zaafril.java](../../src/4_Relasi_C
 
 1. Perhatikan class Pelanggan. Pada baris program manakah yang menunjukan bahwa class Pelanggan memiliki relasi dengan class Mobil dan class Sopir ? 
 -   private Mobil1841720123Zaafril mobil;
-    private Sopir1841720123Zaafril sopir;
+-   private Sopir1841720123Zaafril sopir;
 
 2. Perhatikan method hitungBiayaSopir pada class Sopir, serta method hitungBiayaMobil pada class Mobil. Mengapa menurut Anda method tersebut harus memiliki argument hari ? 
 - Karena pada method hitungBayarSopirZaafril diperlukan sejumlah hari untuk menghitung hasil biaya. Sedangkan argumen hari merupakan nilai yang ditentukan oleh user, bukan oleh objek itu sendiri
