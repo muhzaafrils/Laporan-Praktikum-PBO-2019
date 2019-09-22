@@ -55,7 +55,7 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 - Perbedaan dari kedua konstruktur tersebut adalah salah satu nya memiliki parameter dan mengeset nilai atribut pada saat instansiasi, sedangkan yg satunya merupakan konstruktor default 
 
 3. Perhatikan class Laptop, di antara 2 atribut yang dimiliki (merk dan proc), atribut manakah yang bertipe object ?
-- Atribur proc
+- Atribut proc
 
 4. Perhatikan class Laptop, pada baris manakah yang menunjukan bahwa class Laptop memiliki relasi dengan class Processor ?
 - private Processor1841720123Zaafril proc;
