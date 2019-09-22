@@ -152,7 +152,7 @@ Pegawai masinis = new Pegawai("1234", "Spongebob Squarepants"); KeretaApi kereta
  
 System.out.println(keretaApi.info()); 
 
-- Class MainPertanyaan.java
+- Class MainPertanyaan1841720123Zaafril.java
 
 ![contoh screenshot](img/MainPertanyaan.PNG)
 
