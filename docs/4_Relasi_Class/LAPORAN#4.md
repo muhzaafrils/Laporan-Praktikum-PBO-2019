@@ -52,7 +52,7 @@ Berdasarkan percobaan 1, jawablah pertanyaan‑pertanyaan yang terkait:
 - Method setter untuk mengeset nilai dari class sedangkan method getter untuk mendapatkan nilai dari atribut class
 
 2. Di dalam class Processor dan class Laptop, masing‑masing terdapat konstruktor default dan konstruktor berparameter. Bagaimanakah beda penggunaan dari kedua jenis konstruktor tersebut ?
-- Perbedaan dari kedua konstruktur tersebut adalah salah satu nya memiliki parameter dan mengeset nilai atribut pada saat instansiasi, sedangkan yg satunya merupakan konstruktor default 
+- Perbedaan dari kedua konstruktor tersebut adalah salah satu nya memiliki parameter dan mengeset nilai atribut pada saat instansiasi, sedangkan yg satunya merupakan konstruktor default 
 
 3. Perhatikan class Laptop, di antara 2 atribut yang dimiliki (merk dan proc), atribut manakah yang bertipe object ?
 - Atribut proc
