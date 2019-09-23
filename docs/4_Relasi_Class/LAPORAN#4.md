@@ -144,7 +144,7 @@ Link kode program : [MainPercobaan3_1841720123Zaafril.java](../../src/4_Relasi_C
 ### Pertanyaan Percobaan 3
 
 1. Di dalam method info() pada class KeretaApi, baris this.masinis.info() dan this.asisten.info() digunakan untuk apa ? 
-- Untuk memanggil method infoZaafril() yang berada di dalam objek masinis dan asisten untuk menampilkan info dari onjek tersebut
+- Untuk memanggil method infoZaafril() yang berada di dalam objek masinis dan asisten untuk menampilkan info dari objek tersebut
 
 2. Buatlah main program baru dengan nama class MainPertanyaan pada package yang sama. Tambahkan kode berikut pada method main() ! 
  
