@@ -204,7 +204,7 @@ Link kode program : [MainPercobaan4_1841720123Zaafril.java](../../src/4_Relasi_C
  
 ... if (this.penumpang != null) { info += "Penumpang: " + penumpang.info() + "\n"; } ... 
 
--  Maksud dari kode tersebut adalah, jika penumpang tidak kosong maka akan dikeluarkan data pada class Penumpang di method infoZaafril()
+-  Maksud dari kode tersebut adalah, jika penumpang tidak kosong maka akan dikeluarkan data pada class Penumpang1841720123Zaafril di method infoZaafril()
 
 3. Mengapa pada method setPenumpang() dalam class Gerbong, nilai nomor dikurangi dengan angka 1 ? 
 - Nilai nomor dikurangi dengan angka 1 pada method setPenumpangZaafril() dikarenakan index array dimulai dari angka 0 
