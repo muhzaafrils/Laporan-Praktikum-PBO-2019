@@ -223,7 +223,13 @@ Link kode program : [MainPercobaan4_1841720123Zaafril.java](../../src/4_Relasi_C
 ## Tugas
 
 Buatlah sebuah studi kasus, rancang dengan class diagram, kemudian implementasikan ke dalam program! Studi kasus harus mewakili relasi class dari percobaan‑percobaan yang telah dilakukan pada materi ini, setidaknya melibatkan minimal 4 class (class yang berisi main tidak dihitung). 
- 
+
+- Class Tiket1841720123Zaafril.java
+
+![contoh screenshot](img/Tiket.PNG)
+
+Link kode program : [Tiket1841720123Zaafril.java](../../src/4_Relasi_Class/Tiket1841720123Zaafril.java)
+
 - Class Loket1841720123Zaafril.java
 
 ![contoh screenshot](img/Loket.PNG)
