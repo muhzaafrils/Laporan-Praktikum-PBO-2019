@@ -327,7 +327,7 @@ Link kode program : [Main1841720123Zaafril.java](../../src/6_Inheritance/minggu6
 
 3.	Kita dapat mengimplementasikan konsep single dan multilevel inheritance.
 
-4.	Kita dapatmembuat objek dari suatusubclass dan melakukan pengaksesan terhadap atribut dan method baik yang dimiliki sendiri atau turunan dari superclass nya.
+4.	Kita dapat membuat objek dari suatusubclass dan melakukan pengaksesan terhadap atribut dan method baik yang dimiliki sendiri atau turunan dari superclass nya.
 
 ## Pernyataan Diri
 
