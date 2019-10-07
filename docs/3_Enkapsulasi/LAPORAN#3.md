@@ -114,16 +114,16 @@ Link kode program : [KoperasiDemo1841720123Zaafril.java](../../src/3_Enkapsulasi
 -   Konstruktor tidak boleh menggunakan modifier abstract, static, final, dan syncronized
 
 6.	Apakah boleh konstruktor bertipe private?
--   Tidak, bila private maka objek tidak bisa diakes atau tidak bisa di instansiasi oleh class lain
+-   Tidak, jika atribut diprivate maka objek tidak bisa diakes atau tidak bisa di instansiasi oleh class lain
 
 7.	Kapan menggunakan parameter dengan passing parameter?
--   Bila kita menggunakan konstruktor maka sebaiknya kita menggunakan passing parameter dan juga sebaliknya.
+-   Pada saat kita menggunakan konstruktor 
 
 8.	Apa perbedaan atribut class dan instansiasi atribut?
--   Class merupakan brueprint dari prototype dari objek, kalau instansiasi dibunakan untuk memanggil sebuah objek dari class yang lain.
+-   Class atribut merupakan brueprint dari prototype dari objek, sedangkan instansiasi atribut yaitu proses memanggil sebuah objek dari class yang lain.
 
 9.	Apa perbedaan class method dan instansiasi method?
--   Method merupakan suatu operasi berupa fungsi-fungsi yang dapat dikerjakan oleh suatu object.
+-   Class method adalah prosedur/fungsi  yang terkait dengan kelas, sedangkan instansiasi method adalah prosedur/fungsi  yang terkait dengan kelas. 
 
 ## Tugas
 
