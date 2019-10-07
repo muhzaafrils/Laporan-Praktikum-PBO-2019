@@ -38,7 +38,7 @@ Link kode program : [classB1841720123Zaafril.java](../../src/6_Inheritance/mingg
 
 Link kode program : [Percobaan1_1841720123Zaafril.java](../../src/6_Inheritance/minggu6_P1/Percobaan1_1841720123Zaafril.java)
 
-###Pertanyaan Percobaan 1
+### Pertanyaan Percobaan 1
 
 1.Pada percobaan 1 diatas program yang dijalankan terjadi error, kemudian perbaiki sehingga program tersebut bisa dijalankan dan tidak error!
 
