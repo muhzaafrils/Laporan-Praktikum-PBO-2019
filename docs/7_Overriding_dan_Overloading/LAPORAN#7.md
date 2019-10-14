@@ -85,7 +85,7 @@ Link kode program : [Fish1841720123Zaafril.java](../../src/7_Overriding_dan_Over
 - Terletak pada class Piranha1841720123Zaafril, karena class ini berusaha memodifikasi tingkah laku dari superclass yaitu class Ikan1841720123Zaafril
 
 4. 6 Jabarkanlah apabila sourcoding diatas jika terdapat overriding?
--   1. Pada pada class Ikan1841720123Zaafril dan class Piranha1841720123Zaafril memiliki nama method yang sama
+-   	1. Pada pada class Ikan1841720123Zaafril dan class Piranha1841720123Zaafril memiliki nama method yang sama
 	2. Class Piranha1841720123Zaafril merupakan subclass dari class Ikan1841720123Zaafril
 	3. Mode akses  overriding  method swimZaafril()  sama dengan  overridden method.
 
