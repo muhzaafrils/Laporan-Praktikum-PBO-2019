@@ -42,7 +42,7 @@ Link kode program : [Orang1841720123Zaafril.java](../../src/9_Abstract_Class_dan
 
 Link kode program : [Program1841720123Zaafril.java](../../src/9_Abstract_Class_dan_Interface/Program1841720123Zaafril.java)
 
-![contoh screenshot](img/p1.png)
+![contoh screenshot](img/p1.PNG)
 
 ## Pertanyaan Percobaan 1
 
@@ -76,7 +76,7 @@ Link kode program : [Rektor1841720123Zaafril.java](../../src/9_Abstract_Class_da
 
 Link kode program : [Program2_1841720123Zaafril.java](../../src/9_Abstract_Class_dan_Interface/Program2_1841720123Zaafril.java)
 
-![contoh screenshot](img/p2.png)
+![contoh screenshot](img/p2.PNG)
 
 ## Pertanyaan Percobaan 2
 
@@ -126,7 +126,7 @@ Link kode program : [Rektor1841720123Zaafril.java](../../src/9_Abstract_Class_da
 
 Link kode program : [Program2_1841720143Irgy.java](../../src/9_Abstract_Class_dan_Interface/Program2_1841720123Zaafril.java)
 
-![contoh screenshot](img/p3.png)
+![contoh screenshot](img/p3.PNG)
 
 ## Pertanyaan 3
 
