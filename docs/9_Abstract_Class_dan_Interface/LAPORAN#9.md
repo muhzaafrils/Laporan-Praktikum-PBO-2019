@@ -94,7 +94,7 @@ c. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method
 
 d. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
 
-![contoh screenshot](img/pt2.png)
+![contoh screenshot](img/pt2.PNG)
 
 ### Percobaan 3
 
@@ -134,7 +134,7 @@ Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan a
 maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat 
 memberikan sertifikat mawapres pada objek sarjanaCumlaude. 
 
-![contoh screenshot](img/pt3.png)
+![contoh screenshot](img/pt3.PNG)
 
   
 ## Kesimpulan
