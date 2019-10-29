@@ -124,7 +124,7 @@ Link kode program : [Rektor1841720123Zaafril.java](../../src/9_Abstract_Class_da
 
 - Class Program2_1841720123Zaafril.java
 
-Link kode program : [Program2_1841720143Irgy.java](../../src/9_Abstract_Class_dan_Interface/Program2_1841720123Zaafril.java)
+Link kode program : [Program2_1841720123Zaafril.java](../../src/9_Abstract_Class_dan_Interface/Program2_1841720123Zaafril.java)
 
 ![contoh screenshot](img/p3.PNG)
 
