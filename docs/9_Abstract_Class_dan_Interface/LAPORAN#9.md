@@ -128,7 +128,7 @@ Link kode program : [Program2_1841720123Zaafril.java](../../src/9_Abstract_Class
 
 ![contoh screenshot](img/p3.PNG)
 
-## Pertanyaan 3
+## Pertanyaan Percobaan 3
 
 Apabila Sarjana Berprestasi harus menjuarai kompetisi NASIONAL dan menerbitkan artikel di jurnal NASIONAL, 
 maka modifikasilah class-class yang terkait pada aplikasi Anda agar di class Program objek pakRektor dapat 
