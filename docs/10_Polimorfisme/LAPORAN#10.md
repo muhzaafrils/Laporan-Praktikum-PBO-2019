@@ -156,7 +156,7 @@ Link kode program : [Tester4_1841720123Zaafril.java](../../src/10_Polimorfisme/T
 ![contoh screenshot](img/s4.png)
 
 Mengapa terjadi error?
-- Karena iEmp tidak mengimplementasikan Payable
+- Karena iEmp tidak mengimplementasikan Payable1841720123Zaafril
 
 4.	Perhatikan class Owner, diperlukan untuk apakah sintaks p instanceof ElectricityBill pada baris ke-6 ?
 - Untuk mengecek apakah objek yang dimasukkan sebagai parameter adalah sebuah instan dari class ElectricityBill1841720123Zaafril
