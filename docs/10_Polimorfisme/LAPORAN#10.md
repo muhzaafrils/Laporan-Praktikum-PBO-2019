@@ -59,7 +59,7 @@ Link kode program : [ElectricityBill1841720123Zaafril.java](../../src/10_Polimor
 
 Link kode program : [Tester1_1841720123Zaafril.java](../../src/10_Polimorfisme/Tester1_1841720123Zaafril.java)
 
-![contoh screenshot](img/t1.png)
+![contoh screenshot](img/t1.PNG)
 
 ## Pertanyaan Percobaan 1
 
@@ -83,7 +83,7 @@ e = eBill;
 
 pada baris 14 dan 15 (baris terakhir dalam method main) ! Apa yang menyebabkan error?
 
-- ![contoh screenshot](img/s5.png)
+- ![contoh screenshot](img/s5.PNG)
 - Karena iEmp tidak mengimplementasikan interface Payable1841720123Zaafril dan eBill bukan turunan dari class Employee1841720123Zaafril
 
 6.	Ambil kesimpulan tentang konsep/bentuk dasar polimorfisme!
@@ -95,7 +95,7 @@ pada baris 14 dan 15 (baris terakhir dalam method main) ! Apa yang menyebabkan e
 
 Link kode program : [Tester2_1841720123Zaafril.java](../../src/10_Polimorfisme/Tester2_1841720123Zaafril.java)
 
-![contoh screenshot](img/t2.png)
+![contoh screenshot](img/t2.PNG)
 
 ## Pertanyaan Percobaan 2
 
@@ -114,7 +114,7 @@ Link kode program : [Tester2_1841720123Zaafril.java](../../src/10_Polimorfisme/T
 
 Link kode program : [Tester3_1841720123Zaafril.java](../../src/10_Polimorfisme/Tester3_1841720123Zaafril.java)
 
-![contoh screenshot](img/t3.png)
+![contoh screenshot](img/t3.PNG)
 
 ## Pertanyaan Percobaan 3
 
@@ -129,7 +129,7 @@ PermanentEmployee) dan objek eBill (objek dari ElectricityBilling) ?
 - Karena eBill bukan merupakan turunan dari class Employee1841720123 Zaafril
 
 - Pembetulan :
-![contoh screenshot](img/s3.png)
+![contoh screenshot](img/s3.PNG)
  
 ### Percobaan 4
 
@@ -141,7 +141,7 @@ Link kode program : [Owner1841720123Zaafril.java](../../src/10_Polimorfisme/Owne
 
 Link kode program : [Tester4_1841720123Zaafril.java](../../src/10_Polimorfisme/Tester4_1841720123Zaafril.java)
 
-![contoh screenshot](img/t4.png)
+![contoh screenshot](img/t4.PNG)
 
 ## Pertanyaan Percobaan 4
 
@@ -194,7 +194,7 @@ Link kode program : [Plant1841720123Zaafril.java](../../src/10_Polimorfisme/Plan
 
 Link kode program : [Tester1841720123Zaafril.java](../../src/10_Polimorfisme/Tester1841720123Zaafril.java)
 
-![contoh screenshot](img/tt.png)
+![contoh screenshot](img/tt.PNG)
 
 ## Kesimpulan
 
