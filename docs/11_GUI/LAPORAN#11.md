@@ -94,6 +94,7 @@ Link kode program : [Swing1841720123Zaafril.java](../../src/11_GUI/Swing18417201
 ## Pertanyaan Percobaan 4
 
 a)  Apakah fungsi dari kode berikut?
+
 ![contoh screenshot](img/s4.PNG)
 
 - Membuat set swing visible saat swing  di klik dan menonaktifkan navigasi pada Menu Utama
