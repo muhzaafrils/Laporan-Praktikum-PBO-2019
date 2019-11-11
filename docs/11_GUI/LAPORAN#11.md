@@ -125,7 +125,7 @@ b)	Modifikasi program untuk menambahkan komponen JTable pada tab Halaman 1 dan t
 - ![contoh screenshot](img/s51.PNG)
 - ![contoh screenshot](img/s52.PNG)
 
-### Tugas
+## Tugas
 
 - Main Class, Class Kalkulator1841720123Zaafril.java
 
