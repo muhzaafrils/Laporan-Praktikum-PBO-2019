@@ -13,19 +13,19 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 - Secara umum, tahapan yang akan kita lakukan adalah sebagai berikut:
 
-- 1.	Membuat database dan tabel-tabelnya.
+1.	Membuat database dan tabel-tabelnya.
 
-- 2.	Membuat backend yang berisi class-class yang mewakili data yang ada pada database, dan class helper untuk melakukan eksekusi query database.
+2.	Membuat backend yang berisi class-class yang mewakili data yang ada pada database, dan class helper untuk melakukan eksekusi query database.
 
-- 3.	Membuat frontend yang merupakan antarmuka kepada pengguna. Frontend ini bisa berbasis teks (console), GUI, web, mobile, dan sebagainya.
+3.	Membuat frontend yang merupakan antarmuka kepada pengguna. Frontend ini bisa berbasis teks (console), GUI, web, mobile, dan sebagainya.
 
 - Library yang digunakan untuk project ini antara lain:
 
-- 1.	JDBC, untuk melakukan interaksi ke database.
+1.	JDBC, untuk melakukan interaksi ke database.
 
-- 2.	ArrayList, untuk menampung data hasil query ke database.
+2.	ArrayList, untuk menampung data hasil query ke database.
 
-- 3.	Swing, untuk membuat tampilan GUI.
+3.	Swing, untuk membuat tampilan GUI.
 
 ## Percobaan
 
