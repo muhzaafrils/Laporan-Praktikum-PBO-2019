@@ -31,6 +31,8 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ### Percobaan 1
 
+- Database dbperpus.sql
+
 ![contoh screenshot](img/p1.PNG)
 
 Link kode program : [dbperpus.sql](../../src/14_GUI_dan_Database/dbperpus.sql)
