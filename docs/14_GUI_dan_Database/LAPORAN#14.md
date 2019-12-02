@@ -46,7 +46,7 @@ Link kode program : [dbperpus.sql](../../src/14_GUI_dan_Database/dbperpus.sql)
 
 - Class DBHelper1841720123Zaafril.java
 
-![contoh screenshot](img/P3.PNG)
+![contoh screenshot](img/p3.PNG)
 
 Link kode program : [DBHelper1841720123Zaafril.java](../../src/14_GUI_dan_Database/DBHelper1841720123Zaafril.java)
 
